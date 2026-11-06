@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ayham TV</string>
+    <string name="section_favorites">Favorites</string>
+    <string name="section_recent">Recent</string>
+    <string name="section_all_apps">All apps</string>
+    <string name="section_shortcuts">Shortcuts</string>
+    <string name="empty_favorites">No favorites yet. Press Menu (or hold OK) on any app to add it.</string>
+    <string name="empty_recent">Apps you open will appear here.</string>
+    <string name="shortcut_settings">Settings</string>
+    <string name="shortcut_wifi">Wi-Fi</string>
+    <string name="shortcut_bluetooth">Bluetooth</string>
+    <string name="added_favorite">Added to favorites</string>
+    <string name="removed_favorite">Removed from favorites</string>
+    <string name="cannot_open">This app cannot be opened</string>
+    <string name="cannot_open_settings">This screen is not available on your TV</string>
+</resources>

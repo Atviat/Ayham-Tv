@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ayham TV</string>
+    <string name="section_favorites">المفضلة</string>
+    <string name="section_recent">آخر التطبيقات</string>
+    <string name="section_all_apps">كل التطبيقات</string>
+    <string name="section_shortcuts">اختصارات</string>
+    <string name="empty_favorites">لا توجد تطبيقات مفضلة بعد. اضغط زر القائمة (أو اضغط مطولاً على OK) على أي تطبيق لإضافته.</string>
+    <string name="empty_recent">التطبيقات التي تفتحها ستظهر هنا.</string>
+    <string name="shortcut_settings">الإعدادات</string>
+    <string name="shortcut_wifi">الواي فاي</string>
+    <string name="shortcut_bluetooth">البلوتوث</string>
+    <string name="added_favorite">تمت الإضافة إلى المفضلة</string>
+    <string name="removed_favorite">تمت الإزالة من المفضلة</string>
+    <string name="cannot_open">لا يمكن فتح هذا التطبيق</string>
+    <string name="cannot_open_settings">هذه الشاشة غير متوفرة في تلفازك</string>
+</resources>
